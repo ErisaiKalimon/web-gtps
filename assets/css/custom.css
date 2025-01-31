@@ -119,17 +119,17 @@ a p.text:hover {
 }
 
 .download.parallax {
-    background: url(assets/images/grow_dirt_faq.png) 0 302px repeat-x;
+    background: url(https://gtps.dauws.com/assets/images/grow_dirt_faq.png) 0 302px repeat-x;
     background-size: initial;
 }
 
     .download.parallax:before {
-        background: url(assets/images/grow_dude_sign.png) right 206px no-repeat;
+        background: url(https://gtps.dauws.com/assets/images/grow_dude_sign.png) right 206px no-repeat;
         background-size: initial;
     }
 
 .social-spread.parallax:before {
-    background: url(assets/images/grow_bg3.png) center no-repeat;
+    background: url(https://gtps.dauws.com/assets/images/grow_bg3.png) center no-repeat;
     background-size: cover;
 }
 
